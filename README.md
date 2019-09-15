@@ -1,7 +1,7 @@
 # urban-sprawl
 
 ## Overview
-Propose an Incubator Community where developers can join one or more companies/projects and contribute to development. In this world of github where code is shared in a virtual environment, perhaps we're ready to take this a step further into a world where the entire company is virtual. In this world contributors are compensated for time spent developing ideas, and investors can also contribute funding for ownership.
+Propose an Incubator Community where developers can join one or more companies/projects and contribute to development. In the current world of github where code is shared in a virtual environment, perhaps we're ready to take this a step further into a world where the entire company is virtual. In this world contributors are compensated for time spent developing ideas, and investors can also contribute funding for ownership.
 
 The idea is this would enable both better capitulization of successful companies and provide a better work environment by creating transparent companies. 
 
