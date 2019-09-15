@@ -3,7 +3,7 @@
 ## Overview
 Propose an Incubator Community where developers can join one or more companies/projects and contribute to development. In this world of github where code is shared in a virtual environment, perhaps we're ready to take this a step further into a world where the entire company is virtual. In this world contributors are compensated for time spent developing ideas, and investors can also contribute funding for ownership.
 
-The idea is this would enable better capitulization amd work environment by creating transparent companies. 
+The idea is this would enable both better capitulization of successful companies and provide a better work environment by creating transparent companies. 
 
 ## Contributor Community
 The ideas here is that developers are getting bored working for the same company, and would like to work for cutting edge comnpanies working on cool new stuff. Companies are increasingly finding it difficult to attract good talent to projects. Propose a website like github where a startup company can be created online and people can join through word of mouth, invitation, or searching. Like minded individuals can discuss the projects virtually, and join into teams. Compensation is already built into the community website, and contributors are paid according to agreements made between the project owners and the contributors. An individual could also contibute to the source code of a project for a short period of time to show their talent or initiative and then be asked to join as a payed contributor.
